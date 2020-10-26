@@ -1,0 +1,16 @@
+{
+  "NAVBAR": {
+    "TITLE": "GTD !",
+    "DASHBOARD": "Dashboard"
+  },
+  "SIDEBAR": {
+    "CATEGORY": {
+      "GENERAL": {
+        "TITLE": "General",
+        "ITEM" : {
+          "HOME": "Home"
+        }
+      }
+    }
+  }
+}
